@@ -60,16 +60,6 @@
         }
     }
 
-    &__description {
-        color: $color-default;
-        font-size: $font-normal;
-        padding: $space-default;
-
-        &--destack {
-            color: $color-02;
-        }
-    }
-
     &__button {
         background-color: $color-01;
         border-radius: 5px;
